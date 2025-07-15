@@ -48,7 +48,7 @@ const Footer = () => {
             className="space-y-4"
           >
             <h3 className="text-4xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              MILAD
+              ABDULLAH
             </h3>
             <p className="text-muted-foreground max-w-md mx-auto">
               Creating immersive digital experiences with cutting-edge technologies 
@@ -101,7 +101,7 @@ const Footer = () => {
             className="flex flex-col md:flex-row justify-between items-center gap-6"
           >
             <p className="text-muted-foreground text-sm flex items-center gap-2">
-              © {currentYear} Made with <Heart size={16} className="text-red-500 animate-pulse" /> by Milad
+              © {currentYear} Made with <Heart size={16} className="text-red-500 animate-pulse" /> by Abdullah
             </p>
 
             <div className="flex items-center gap-4">

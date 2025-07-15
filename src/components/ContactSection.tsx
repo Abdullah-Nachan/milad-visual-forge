@@ -41,7 +41,7 @@ const ContactSection = () => {
     { icon: GithubLogo, href: '#', label: 'GitHub' },
     { icon: LinkedinLogo, href: '#', label: 'LinkedIn' },
     { icon: TwitterLogo, href: '#', label: 'Twitter' },
-    { icon: Envelope, href: 'mailto:milad@example.com', label: 'Email' }
+    { icon: Envelope, href: 'mailto:abdullah@example.com', label: 'Email' }
   ];
 
   const containerVariants = {
@@ -220,7 +220,7 @@ const ContactSection = () => {
                 <div className="space-y-3">
                   <div className="flex items-center gap-3 text-muted-foreground">
                     <Envelope size={20} className="text-primary" />
-                    <span>milad@example.com</span>
+                    <span>abdullah@example.com</span>
                   </div>
                   <div className="flex items-center gap-3 text-muted-foreground">
                     <svg className="w-5 h-5 text-primary" fill="currentColor" viewBox="0 0 20 20">

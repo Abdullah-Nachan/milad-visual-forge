@@ -5,14 +5,6 @@ const ProjectsSection = () => {
   const projects = [
     {
       id: 1,
-      title: 'AuthKit Dashboard',
-      description: 'Modern authentication system with sleek UI and advanced security features.',
-      image: '/lovable-uploads/8b94e9f8-ccf4-4b1e-b806-756dc22d3f03.png',
-      tech: ['React', 'TypeScript', 'Node.js', 'PostgreSQL'],
-      category: 'Full Stack'
-    },
-    {
-      id: 2,
       title: 'Business Growth Platform',
       description: 'Marketing analytics dashboard with real-time data visualization.',
       image: '/lovable-uploads/faa13c6d-7363-4ae9-8a7f-0b2adb91f1d0.png',
@@ -20,7 +12,7 @@ const ProjectsSection = () => {
       category: 'Dashboard'
     },
     {
-      id: 3,
+      id: 2,
       title: 'Gaming Dashboard',
       description: 'Real-time gaming statistics and performance monitoring system.',
       image: '/lovable-uploads/2b00f27e-1ab0-4480-91d8-97b9746c2a7d.png',
@@ -28,7 +20,7 @@ const ProjectsSection = () => {
       category: 'Real-time'
     },
     {
-      id: 4,
+      id: 3,
       title: 'Prison Management System',
       description: 'Comprehensive facility management with advanced analytics.',
       image: '/lovable-uploads/f16fa640-5d62-4fee-b36c-dd51e0ee79c7.png',
@@ -36,20 +28,12 @@ const ProjectsSection = () => {
       category: 'Enterprise'
     },
     {
-      id: 5,
+      id: 4,
       title: 'AZIZ Phone Hub',
       description: 'E-commerce platform with sleek product showcase and smooth UX.',
       image: '/lovable-uploads/d7bf0239-fa78-49d1-bafa-500fed6a13e6.png',
       tech: ['React', 'Stripe', 'Node.js', 'MongoDB'],
       category: 'E-commerce'
-    },
-    {
-      id: 6,
-      title: 'Portfolio Website',
-      description: 'Interactive portfolio with GSAP animations and 3D elements.',
-      image: '/lovable-uploads/f19680b0-e3ff-40ec-9b9b-2bd7bfdbb355.png',
-      tech: ['React', 'GSAP', 'Three.js', 'Framer Motion'],
-      category: 'Creative'
     }
   ];
 

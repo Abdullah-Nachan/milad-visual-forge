@@ -49,7 +49,7 @@ const Navigation = () => {
               className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent cursor-pointer"
               onClick={() => scrollToSection('#home')}
             >
-              MILAD
+              ABDULLAH
             </motion.div>
 
             {/* Desktop Navigation */}

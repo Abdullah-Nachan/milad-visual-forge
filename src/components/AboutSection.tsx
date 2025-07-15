@@ -83,7 +83,7 @@ const AboutSection = () => {
                 <div className="w-full h-full rounded-full overflow-hidden border-4 border-primary/30 shadow-glow-blue">
                   <img 
                     src="/lovable-uploads/f19680b0-e3ff-40ec-9b9b-2bd7bfdbb355.png"
-                    alt="Milad - Web Developer"
+                    alt="Abdullah - Web Developer"
                     className="w-full h-full object-cover"
                   />
                 </div>

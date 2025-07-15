@@ -53,7 +53,7 @@ const LoadingScreen = ({ onLoadingComplete }: LoadingScreenProps) => {
               className="space-y-4"
             >
               <h1 className="text-6xl md:text-8xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                MILAD
+                ABDULLAH
               </h1>
               <p className="text-xl text-muted-foreground tracking-widest uppercase">
                 Web Developer

@@ -51,7 +51,7 @@ const HeroSection = () => {
             >
               <span className="block text-foreground">Hi, I'm</span>
               <span className="block bg-gradient-primary bg-clip-text text-transparent text-glow">
-                Milad
+                Abdullah
               </span>
             </motion.h1>
             
